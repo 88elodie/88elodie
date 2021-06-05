@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @88elodie
+- 👋 Hi, I’m Élodie :)
 - 👀 I’m interested in art, botany, web design and graphic design.
 - 🌱 I’m currently learning html, css and javascript.
 - 💞️ I’m looking to collaborate on zine or web design
