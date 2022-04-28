@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Élodie :)
 - 👀 I’m interested in art, botany, web design and graphic design.
-- 🌱 I’m currently learning html, css and javascript.
+- 🌱 I’m currently learning html, css, PHP and javascript.
 - 💞️ I’m looking to collaborate on zine or web design
 - 📫 How to reach me here, instagram @88elodie, website : https://elodie.cloud
 
